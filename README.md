@@ -1,4 +1,3 @@
-```markdown
 # Xiambly
 
 A cool little asm-style programming language made in C# for fun.
